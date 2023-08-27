@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/234752/noted.gif)
 <!--
 **234752/234752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
