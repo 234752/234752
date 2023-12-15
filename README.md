@@ -1,6 +1,6 @@
 
-💻 GPT prompt developer\
-🗿 Official member of Bill Gates' .NET Hooligans
+💻 GPT prompt developer 💻\
+🗿 Official member of Bill Gates' .NET Hooligans 🗿
 <!--
 ![](https://github.com/234752/234752/blob/master/noted.gif)
 ![](https://github.com/234752/234752/blob/master/noway.gif)
