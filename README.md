@@ -1,6 +1,8 @@
 
 💻 GPT prompt developer 💻\
-🗿 Official member of Bill Gates' .NET Hooligans 🗿
+🗿 Official member of Bill Gates' .NET Hooligans 🗿\
+\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=234752&layout=compact&hide=Java,Kotlin&exclude_repo=cpp-ImageProcessing)
 <!--
 ![](https://github.com/234752/234752/blob/master/noted.gif)
 ![](https://github.com/234752/234752/blob/master/noway.gif)
